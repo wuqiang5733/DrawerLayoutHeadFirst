@@ -1,0 +1,40 @@
+<resources>
+  <string name="app_name">Bits And Pizzas</string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+  <string name="action_create_order">Create Order</string>
+  <string name="title_activity_order">Order Activity</string>
+  <string name="action_share">Share</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="title_top">Top fragment</string>
+  <string-array name="pizzas">
+    <item>这是我加上的</item>
+    <item>Diavolo</item>
+    <item>Funghi</item>
+    <item>Pizza</item>
+  </string-array>
+  <string-array name="pasta">
+    <item>是的呢</item>
+    <item>Spaghetti Bolognese</item>
+    <item>Lasagne</item>
+    <item>Pasta</item>
+  </string-array>
+  <string-array name="stores">
+    <item>这个真的好简单的</item>
+    <item>Cambridge</item>
+    <item>Sebastopol</item>
+    <item>Stores</item>
+  </string-array>
+  <string-array name="titles">
+    <item>Home</item>
+    <item>Pizzas</item>
+    <item>Pasta</item>
+    <item>Stores</item>
+    <item>菜单</item>
+  </string-array>
+  <string name="open_drawer">Open drawer</string>
+  <string name="close_drawer">Close drawer</string>
+</resources>
